@@ -1,9 +1,11 @@
+<!--
+ * @Date: 2020-09-28 20:48:01
+ * @LastEditors: 曾令宇
+ * @LastEditTime: 2020-09-28 22:08:32
+ * @FilePath: \gx-demo\src\App.vue
+-->
 <template>
   <div id="app">
-    <div id="nav">
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
-    </div>
     <router-view/>
   </div>
 </template>

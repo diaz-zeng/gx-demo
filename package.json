@@ -9,7 +9,10 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "d3-geo": "^2.0.1",
+    "mapv": "^2.0.57",
     "register-service-worker": "^1.7.1",
+    "three": "^0.120.1",
     "vue": "^2.6.11",
     "vue-router": "^3.2.0",
     "vuex": "^3.4.0"
